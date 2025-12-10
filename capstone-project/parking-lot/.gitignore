@@ -1,0 +1,8 @@
+/build/
+/bin/parking
+/bin/test_billing
+*.o
+*.out
+*.log
+*.tmp
+.DS_Store

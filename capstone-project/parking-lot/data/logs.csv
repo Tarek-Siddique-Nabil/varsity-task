@@ -1,0 +1,9 @@
+timestamp,event_type,details,amount
+2025-12-10T09:00:00,entry,plate=ABC-123;slot=2,0.00
+2025-12-10T10:06:25,startup,system_started,0.00
+2025-12-10T10:07:45,config,slots_updated,0.00
+2025-12-10T10:11:10,startup,system_started,0.00
+2025-12-10T10:11:22,startup,system_started,0.00
+2025-12-10T10:12:31,entry,plate=606434;slot=1,0.00
+2025-12-10T10:13:36,exit,plate=606434;ticket=T1001,0.00
+2025-12-10T10:16:18,shutdown,system_stopped,0.00
